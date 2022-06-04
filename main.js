@@ -3,7 +3,6 @@
  * find the rem by dividing it by zero
  * if rem===0 then unshift z to empty array
  * change input to input=(input-26)/26
- * if input >26
  * then  input=parseInt(input/26);
  * 
  */
