@@ -50,9 +50,9 @@ let input=705;
     if(rem===0){
     arr.unshift(obj[26]);
      input=(input-26)/26;
-    if(input>26){
-        input=parseInt(input/26);
-    }
+//     if(input>26){
+//         input=parseInt(input/26);
+//     }
     
     
     
